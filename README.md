@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-Deeply passionate about computer science, driven by a strong ambition and curiosity. I'm always eager to expand my knowledge and skills by building real-world applications and exploring both fundamental and modern areas of technology. I enjoy working across the stack and bringing ideas to life through clean, functional, and purposeful code.
+Deeply passionate about computer science, driven by a strong ambition and curiosity, always eager to expand my
+knowledge and skills.
 
 ---
 
